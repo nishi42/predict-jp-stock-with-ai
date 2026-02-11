@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Nikkei & TOPIX AI Predictor",
+  "description": "A financial forecasting dashboard using Gemini AI with Google Search to predict and track Nikkei 225 and TOPIX index movements with accuracy analytics.",
+  "requestFramePermissions": []
+}
